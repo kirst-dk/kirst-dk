@@ -16,7 +16,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)](https://web3py.readthedocs.io)
-[![BNB Chain](https://img.shields.io/badge/BNB_Chain-F0B90B?style=for-the-badge&logo=binance&logoColor=black)](https://bnbchain.org)
+
 
 </div>
 
@@ -27,16 +27,16 @@
 ### 👾 Who am I?
 
 Крипто и DeFi энтузиаст, строю инструменты  
-для автоматизации работы с блокчейном.
+для автоматизации и работой с блокчейном.
 
-Интересуюсь prediction markets, on-chain  
-стратегиями и всем что можно заавтоматизировать.
+Интересуюсь WEB3 разработкой, on-chain  
+стратегиями и всем что можно автоматизировать.
 
 ```
 🔗  On-chain since day one
 ⚡  Automation over manual trading  
 🧪  Always experimenting with new protocols
-🌐  BNB Chain · EVM · DeFi
+🌐  EVM · DeFi · Crypto Drops
 ```
 
 ---
