@@ -26,11 +26,11 @@
 
 ### 👾 Who am I?
 
-Крипто и DeFi энтузиаст, строю инструменты  
-для автоматизации и работой с блокчейном.
+I'm a crypto and DeFi enthusiast 
+who builds tools for automation and blockchain work.
 
-Интересуюсь WEB3 разработкой, on-chain  
-стратегиями и всем что можно автоматизировать.
+I'm interested in web development, 
+on-chain strategies, and anything that can be automated.
 
 ```
 🔗  On-chain since day one
